@@ -1,0 +1,62 @@
+{
+  "Open-loop": {
+    "max_temperature_C": 40.05178453541987,
+    "zone_max_C": [
+      40.05178453541987,
+      30.0,
+      30.0,
+      30.0
+    ],
+    "max_spread_K": 14.58569620904126,
+    "rise_time_s": 0.0,
+    "settling_time_s": 0.0,
+    "peak_time_s": 0.0,
+    "overshoot_K": 0.0,
+    "steady_state_error_K": 3.9420372806613955,
+    "IAE_Ks": 2229.3518861165535,
+    "time_above_threshold_s": 514.0,
+    "cooling_energy_proxy_s": 205.79999999999995,
+    "peak_command": 0.35,
+    "max_budget_utilization": 1.4
+  },
+  "PI/PID": {
+    "max_temperature_C": 33.05582103833473,
+    "zone_max_C": [
+      33.05582103833473,
+      30.0,
+      30.0,
+      30.0
+    ],
+    "max_spread_K": 7.637841425024078,
+    "rise_time_s": 0.0,
+    "settling_time_s": 0.0,
+    "peak_time_s": 0.0,
+    "overshoot_K": 0.0,
+    "steady_state_error_K": 4.797968981652275,
+    "IAE_Ks": 3441.078852463261,
+    "time_above_threshold_s": 0.0,
+    "cooling_energy_proxy_s": 3413.4256167197104,
+    "peak_command": 1.0,
+    "max_budget_utilization": 4.0
+  },
+  "ThermoGuard": {
+    "max_temperature_C": 32.816494767080826,
+    "zone_max_C": [
+      32.816494767080826,
+      30.0,
+      30.0,
+      30.0
+    ],
+    "max_spread_K": 7.388530516969809,
+    "rise_time_s": 0.0,
+    "settling_time_s": 0.0,
+    "peak_time_s": 0.0,
+    "overshoot_K": 0.0,
+    "steady_state_error_K": 4.525667020067431,
+    "IAE_Ks": 3560.4414406449355,
+    "time_above_threshold_s": 0.0,
+    "cooling_energy_proxy_s": 989.3674806552051,
+    "peak_command": 1.0,
+    "max_budget_utilization": 2.0000000000000004
+  }
+}

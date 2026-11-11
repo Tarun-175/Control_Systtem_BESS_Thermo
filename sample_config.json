@@ -1,0 +1,16 @@
+{
+  "scenario": "Localized hotspot Zone 1",
+  "duration": 1200,
+  "dt": 2,
+  "ambient": 298.15,
+  "current": 180,
+  "setpoint": 303.15,
+  "budget": 2.0,
+  "heat_fault": 18000,
+  "fault_on": 240,
+  "fault_duration": 600,
+  "health_fault": 0.45,
+  "sensor_bias": 2.0,
+  "sensor_noise": 0.0,
+  "fixed": 0.35
+}

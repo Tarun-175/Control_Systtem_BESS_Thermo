@@ -1,0 +1,1 @@
+Run `python scripts/generate_results.py` from the project root to recreate the actual hotspot scenario metrics JSON and comparison PNG. The artifacts are generated from the nonlinear simulator, not hand-authored curves.
